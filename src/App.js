@@ -95,8 +95,8 @@ export default function App() {
 
   return (
     <div className="flex flex-col justify-center p-10 m-10 gap-8 h-full">
-      <h1 className="text-3xl font-bold  text-red-400">
-       Testinggggggg
+      <h1 className="text-3xl font-bold ">
+        Before we begin: Planning your day
       </h1>
       <div>
         <img
